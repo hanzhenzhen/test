@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.bitpie.bitpie.debug</string>
+				<string>com.bitpie.bitpie.dhy</string>
 				<key>bundle-version</key>
 				<string>3.8.3</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>bitpie</string>
+				<string>dhy</string>
 			</dict>
 		</dict>
 	</array>
